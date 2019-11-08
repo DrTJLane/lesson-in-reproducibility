@@ -1,0 +1,17 @@
+Type: Compendium
+Package: Compendium title
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Compendium description
+License: MIT + file LICENSE
+Depends: 
+    see,
+    tidyverse
+Encoding: UTF-8
+LazyData: true
